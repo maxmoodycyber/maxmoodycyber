@@ -1,56 +1,59 @@
-# Max Moody
+# Max Moody - Cyber Security Analyst
 
-👋 **Hi there! I'm Max Moody,** an aspiring Cybersecurity Professional passionate about making a positive impact in the cybersecurity world. I have a deep interest in **penetration testing** and **DDoS protection**, and I enjoy working with **Linux systems** to optimize security workflows.
-
-![GitHub followers](https://img.shields.io/github/followers/maxmoodycyber?style=social) ![Stars](https://img.shields.io/github/stars/maxmoodycyber?style=social)
-
-## 💻 What I'm passionate about:
-- 🔐 **Penetration Testing**: I am eager to delve deeper into ethical hacking and penetration testing, learning and experimenting with techniques to strengthen security.
-- 🌐 **DDoS Protection**: One of my key focuses is mitigating distributed denial-of-service (DDoS) attacks. I enjoy working on strategies and tools to safeguard systems from these threats.
-- 🐧 **Linux Enthusiast**: I love working with Linux, and I believe it's one of the best environments for security professionals. Many of my projects are built or optimized for Linux systems.
+Welcome to my GitHub portfolio. I’m Max Moody, a Cyber Security Analyst with a passion for ethical hacking, network defense, and proactive threat mitigation. I specialize in penetration testing, DDoS protection, OSINT investigations, and building advanced security tools on Linux platforms.
 
 ---
 
-## 🛠️ Technologies I enjoy working with:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-414141?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+## Professional Profile
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Cyber Security Analyst:** Adept at identifying vulnerabilities and implementing countermeasures to safeguard critical infrastructures.
+- **Penetration Testing & Network Scanning:** Skilled in using industry-standard tools and custom-developed scanners to evaluate network security, including expertise in OSINT to gather actionable intelligence.
+- **DDoS Mitigation & Defense:** Experienced in developing strategies to detect and mitigate DDoS attacks using cutting-edge techniques and platforms such as Cloudflare.
+- **Linux Systems & Automation:** Passionate about leveraging Linux environments (Ubuntu, Kali Linux, Arch Linux) to create streamlined and secure automation workflows.
 
 ---
 
-## 🚀 What I'm currently working on:
-- 🔭 Learning advanced penetration testing techniques through **Capture The Flag (CTF)** challenges and other hands-on learning experiences.
-- 🛠️ Building tools related to **DDoS protection** and **OSINT** to contribute to the cybersecurity community.
-- 👨‍💻 Always looking to collaborate on exciting projects in **cybersecurity** and **penetration testing**!
+## Technical Expertise
+
+- **Programming & Scripting:** Python, Bash
+- **Security Tools:** Metasploit, Nmap, Burp Suite, Wireshark
+- **OSINT & Data Analysis:** Advanced OSINT techniques for social media and public data investigation
+- **Network Scanning:** Custom network scanners and utilities for threat detection and vulnerability assessment
+- **Cloud & Web Security:** Practical experience with Cloudflare configurations and other DDoS protection methodologies
 
 ---
 
-## 🔗 Featured Projects
-- **[Cloudflare-DDoS-Protection](https://github.com/maxmoodycyber/Cloudflare-DDOS-Protection)**: A project focused on protecting websites via Cloudflare through ASN blocking, geoblocking, and other defense strategies.
-- **[VSE-UDP-Amplification-Scanner](https://github.com/maxmoodycyber/VSE-UDP-Amplification-Scanner)**: A proof-of-concept tool that uses Valve Source Engine servers as a UDP DDoS amplification attack vector.
-- **[Kittysint](https://github.com/maxmoodycyber/kittysint)**: A basic OSINT tool for gathering social media data linked to a username.
+## Featured Projects
+
+- **[Open-Ollama-Scanner](https://github.com/maxmoodycyber/Open-Ollama-Scanner)**  
+  A sophisticated network scanner leveraging masscan to identify and evaluate active Ollama instances across the internet, enhancing threat detection capabilities.
+
+- **[BT-Phonebook-Lookup](https://github.com/maxmoodycyber/BT-Phonebook-Lookup)**  
+  A robust UK whitepages alternative that utilizes the BT Phonebook and ripgrep for quick and efficient data extraction from PDFs. This tool is designed for rapid intelligence gathering in OSINT investigations.
+
+- **[VSE-UDP-Amplification-Scanner](https://github.com/maxmoodycyber/VSE-UDP-Amplification-Scanner)**  
+  A proof-of-concept utility demonstrating the use of Valve Source Engine servers as a vector for UDP DDoS amplification, underscoring practical experience in both offensive and defensive cybersecurity strategies.
+
+- **Additional Projects:**  
+  - **[Cloudflare-DDOS-Protection](https://github.com/maxmoodycyber/Cloudflare-DDOS-Protection):** Implements strategies for ASN blocking, geoblocking, and other techniques to secure web assets via Cloudflare.
+  - **[kittysint](https://github.com/maxmoodycyber/kittysint):** A basic OSINT tool designed for aggregating social media data linked to a username.
+  - **[Site-Cloner](https://github.com/maxmoodycyber/Site-Cloner):** Uses Selenium to create 1-to-1 webpage clones for security analysis and testing.
 
 ---
 
-## 🌱 What I'm learning:
-- **Advanced Penetration Testing**: Exploring deeper techniques to perform ethical hacking.
-- **DDoS Mitigation**: Finding new ways to detect and mitigate DDoS attacks, especially on large networks and cloud services.
-- **Linux Automation**: Building security automation workflows on Linux to optimize efficiency.
+## Current Initiatives
+
+- **Advanced Penetration Testing:** Engaging in Capture The Flag (CTF) challenges and real-world scenarios to refine my ethical hacking skills.
+- **Innovative DDoS Mitigation:** Researching and developing new approaches for detecting and mitigating large-scale DDoS attacks on both traditional and cloud infrastructures.
+- **OSINT & Network Scanning:** Expanding my suite of tools for OSINT and network scanning to provide deeper insights into emerging threats and vulnerabilities.
+- **Security Automation:** Building automated workflows on Linux to streamline security operations and incident response.
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmoodycyber&layout=compact&theme=dark)
 
 ---
+
+I hope you enjoy looking at my projects I have worked on!
