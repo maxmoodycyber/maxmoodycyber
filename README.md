@@ -1,59 +1,87 @@
-# Max Moody - Cyber Security Analyst
+# Max Moody | Offensive Security Specialist & Cyber Threat Hunter
 
-Welcome to my GitHub portfolio. I’m Max Moody, a Cyber Security Analyst with a passion for ethical hacking, network defense, and proactive threat mitigation. I specialize in penetration testing, DDoS protection, OSINT investigations, and building advanced security tools on Linux platforms.
+[![AbuseIPDB Contributor Badge](https://www.abuseipdb.com/contributor/167333.svg)](https://www.abuseipdb.com/user/167333 "AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks")
 
----
-
-## Professional Profile
-
-- **Cyber Security Analyst:** Adept at identifying vulnerabilities and implementing countermeasures to safeguard critical infrastructures.
-- **Penetration Testing & Network Scanning:** Skilled in using industry-standard tools and custom-developed scanners to evaluate network security, including expertise in OSINT to gather actionable intelligence.
-- **DDoS Mitigation & Defense:** Experienced in developing strategies to detect and mitigate DDoS attacks using cutting-edge techniques and platforms such as Cloudflare.
-- **Linux Systems & Automation:** Passionate about leveraging Linux environments (Ubuntu, Kali Linux, Arch Linux) to create streamlined and secure automation workflows.
+## About Me
+Cybersecurity professional with a red-team mindset focused on penetration testing, network vulnerability assessment, and threat intelligence. I develop specialized tools for OSINT investigations, DDoS protection, and security automation on Linux environments.
 
 ---
 
-## Technical Expertise
+## 🛡️ Expertise
 
-- **Programming & Scripting:** Python, Bash
-- **Security Tools:** Metasploit, Nmap, Burp Suite, Wireshark
-- **OSINT & Data Analysis:** Advanced OSINT techniques for social media and public data investigation
-- **Network Scanning:** Custom network scanners and utilities for threat detection and vulnerability assessment
-- **Cloud & Web Security:** Practical experience with Cloudflare configurations and other DDoS protection methodologies
+### Offensive Security
+- **Penetration Testing:** Comprehensive security assessments using industry-standard tools and custom exploits
+- **Network Scanning & Enumeration:** Development of specialized scanners for threat detection and vulnerability assessment
+- **OSINT Investigations:** Advanced techniques for gathering actionable intelligence from public sources
 
----
-
-## Featured Projects
-
-- **[Open-Ollama-Scanner](https://github.com/maxmoodycyber/Open-Ollama-Scanner)**  
-  A sophisticated network scanner leveraging masscan to identify and evaluate active Ollama instances across the internet, enhancing threat detection capabilities.
-
-- **[BT-Phonebook-Lookup](https://github.com/maxmoodycyber/BT-Phonebook-Lookup)**  
-  A robust UK whitepages alternative that utilizes the BT Phonebook and ripgrep for quick and efficient data extraction from PDFs. This tool is designed for rapid intelligence gathering in OSINT investigations.
-
-- **[VSE-UDP-Amplification-Scanner](https://github.com/maxmoodycyber/VSE-UDP-Amplification-Scanner)**  
-  A proof-of-concept utility demonstrating the use of Valve Source Engine servers as a vector for UDP DDoS amplification, underscoring practical experience in both offensive and defensive cybersecurity strategies.
-
-- **Additional Projects:**  
-  - **[Cloudflare-DDOS-Protection](https://github.com/maxmoodycyber/Cloudflare-DDOS-Protection):** Implements strategies for ASN blocking, geoblocking, and other techniques to secure web assets via Cloudflare.
-  - **[kittysint](https://github.com/maxmoodycyber/kittysint):** A basic OSINT tool designed for aggregating social media data linked to a username.
-  - **[Site-Cloner](https://github.com/maxmoodycyber/Site-Cloner):** Uses Selenium to create 1-to-1 webpage clones for security analysis and testing.
+### Defensive Measures
+- **DDoS Mitigation:** Implementation of sophisticated protection strategies using Cloudflare and custom solutions
+- **Threat Modeling:** Identification of potential attack vectors and implementation of countermeasures
+- **Security Automation:** Creation of streamlined workflows for rapid incident response
 
 ---
 
-## Current Initiatives
-
-- **Advanced Penetration Testing:** Engaging in Capture The Flag (CTF) challenges and real-world scenarios to refine my ethical hacking skills.
-- **Innovative DDoS Mitigation:** Researching and developing new approaches for detecting and mitigating large-scale DDoS attacks on both traditional and cloud infrastructures.
-- **OSINT & Network Scanning:** Expanding my suite of tools for OSINT and network scanning to provide deeper insights into emerging threats and vulnerabilities.
-- **Security Automation:** Building automated workflows on Linux to streamline security operations and incident response.
-
----
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmoodycyber&layout=compact&theme=dark)
+## 🔧 Technical Arsenal
+```python
+skills = {
+    "languages": ["Python", "Bash", "Go"],
+    "offensive_tools": ["Metasploit", "Nmap", "Burp Suite", "Custom Scanners"],
+    "defensive_tools": ["Wireshark", "Cloudflare", "Suricata", "OSSEC"],
+    "environments": ["Kali Linux", "Ubuntu", "Arch Linux"],
+    "methodologies": ["OSINT", "Network Mapping", "Vulnerability Assessment", "Exploit Development"]
+}
+```
 
 ---
 
-I hope you enjoy looking at my projects I have worked on!
+## 🚀 Featured Projects
+
+### [Open-Ollama-Scanner](https://github.com/maxmoodycyber/Open-Ollama-Scanner)
+Advanced network scanner leveraging masscan to identify and evaluate active Ollama instances across the internet, enhancing threat detection capabilities.
+```bash
+# Key features
+- High-performance scan techniques
+- Detailed vulnerability assessment
+- Comprehensive reporting
+```
+
+### [VSE-UDP-Amplification-Scanner](https://github.com/maxmoodycyber/VSE-UDP-Amplification-Scanner)
+PoC utility demonstrating the exploitation of Valve Source Engine servers as DDoS amplification vectors, highlighting the intersection of offensive and defensive security.
+```python
+# Example use case
+scanner = VSEScanner()
+vulnerable_endpoints = scanner.identify_amplification_vectors()
+mitigation_report = scanner.generate_defense_recommendations(vulnerable_endpoints)
+```
+
+### [BT-Phonebook-Lookup](https://github.com/maxmoodycyber/BT-Phonebook-Lookup)
+Robust OSINT tool utilizing the BT Phonebook with ripgrep for rapid extraction of intelligence from PDFs, optimized for security investigations.
+
+### [Cloudflare-DDOS-Protection](https://github.com/maxmoodycyber/Cloudflare-DDOS-Protection)
+Implementation of ASN blocking, geoblocking, and other techniques for robust web infrastructure protection via Cloudflare.
+
+### [kittysint](https://github.com/maxmoodycyber/kittysint)
+Streamlined OSINT tool designed for aggregating and analyzing social media data linked to specific usernames.
+
+### [Site-Cloner](https://github.com/maxmoodycyber/Site-Cloner)
+Security tool using Selenium to create precise webpage replicas for phishing awareness training and security analysis.
+
+---
+
+## 🔍 Current Research & Development
+
+- **Advanced Evasion Techniques:** Developing methodologies to bypass modern detection systems
+- **Zero-Day Hunting:** Researching undisclosed vulnerabilities in common network protocols
+- **DDoS Evolution:** Creating next-generation mitigation strategies for emerging attack vectors
+- **Automated Threat Intelligence:** Building systems to collect, analyze, and act on threat data
+- **Secure Infrastructure as Code:** Developing templates for rapidly deployable secure environments
+
+---
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmoodycyber&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxmoodycyber&show_icons=true&theme=dark&count_private=true)
+
+---
+
+*"The best defense is understanding the offense."*
