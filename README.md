@@ -65,16 +65,14 @@ Security tool using Selenium to create precise webpage replicas for phishing awa
 ## 🔍 Current Research & Development
 
 - **Advanced Evasion Techniques:** Developing methodologies to bypass modern detection systems
-- **Zero-Day Hunting:** Researching undisclosed vulnerabilities in common network protocols
-- **DDoS Evolution:** Creating next-generation mitigation strategies for emerging attack vectors
+- **Vulnerability Hunting:** Researching vulnerabilities in common network protocols
+- **DDoS Evolution:** Creating next-generation mitigation strategies for emerging attack vectors and researching common threats
 - **Automated Threat Intelligence:** Building systems to collect, analyze, and act on threat data
-- **Secure Infrastructure as Code:** Developing templates for rapidly deployable secure environments
 
 ---
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmoodycyber&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxmoodycyber&show_icons=true&theme=dark&count_private=true)
 
 ---
 
