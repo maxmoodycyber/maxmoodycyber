@@ -47,12 +47,6 @@ Advanced network scanner leveraging masscan to identify and evaluate active Olla
 
 ### [VSE-UDP-Amplification-Scanner](https://github.com/maxmoodycyber/VSE-UDP-Amplification-Scanner)
 PoC utility demonstrating the exploitation of Valve Source Engine servers as DDoS amplification vectors, highlighting the intersection of offensive and defensive security.
-```python
-# Example use case
-scanner = VSEScanner()
-vulnerable_endpoints = scanner.identify_amplification_vectors()
-mitigation_report = scanner.generate_defense_recommendations(vulnerable_endpoints)
-```
 
 ### [BT-Phonebook-Lookup](https://github.com/maxmoodycyber/BT-Phonebook-Lookup)
 Robust OSINT tool utilizing the BT Phonebook with ripgrep for rapid extraction of intelligence from PDFs, optimized for security investigations.
